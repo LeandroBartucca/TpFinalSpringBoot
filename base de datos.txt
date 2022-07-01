@@ -1,0 +1,6 @@
+BD: bazar
+Servidor: localhost
+Usuario: admin
+Contraseña: admin
+Puerto: 3306
+JDBC URL: jdbc:mysql://localhost:3306/bazar?serverTimezone=UTC
